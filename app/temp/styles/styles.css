@@ -1,0 +1,11 @@
+body {
+	padding: 30px;
+	-webkit-columns: 200px 3;
+	   -moz-columns: 200px 3;
+	        columns: 200px 3;
+	background-color: #747;
+}
+
+body a {
+	color: #474;
+}

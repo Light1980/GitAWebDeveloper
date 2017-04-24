@@ -1,11 +1,31 @@
 {
   "name": "gitawebdeveloper",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Light1980/GitAWebDeveloper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Light1980/GitAWebDeveloper/issues"
+  },
+  "homepage": "https://github.com/Light1980/GitAWebDeveloper#readme",
+  "description": "",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^6.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.7.7",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.4.0",
+    "gulp-watch": "^4.3.11",
+    "postcss-nested": "^1.0.1",
+    "postcss-simple-vars": "^3.1.0"
+  }
 }

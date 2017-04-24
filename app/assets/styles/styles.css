@@ -1,0 +1,16 @@
+$mainColor: #747;
+
+
+body {
+	padding: 30px;
+	columns: 200px 3;
+	background-color: $mainColor;
+}
+
+body {
+
+	a {
+		color: #474;
+	}
+	
+}
