@@ -1,16 +1,6 @@
-$mainColor: #747;
+@import 'normalize.css';
 
+@import "base/_global.css";
 
-body {
-	padding: 30px;
-	columns: 200px 3;
-	background-color: $mainColor;
-}
+@import "modules/_large-hero";
 
-body {
-
-	a {
-		color: #474;
-	}
-	
-}
